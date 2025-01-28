@@ -11,19 +11,21 @@ Buka situs resmi Visual Studio Code:
 
 **Langkah 2**: Pasang VS Code
 Windows:
-Jalankan file ```cs .exe``` yang diunduh.
-Centang opsi Add to PATH agar bisa menggunakan perintah VS Code di terminal.
-Klik Next hingga selesai.
++ Jalankan file ```.exe``` yang diunduh.
++ Centang opsi **Add to PATH** agar bisa menggunakan perintah VS Code di terminal.
++ **Klik Next** hingga selesai.
+
 macOS:
-Buka file .dmg yang diunduh.
-Seret ikon VS Code ke folder Applications.
++ Buka file ```.dmg``` yang diunduh.
++ Seret ikon VS Code ke folder **Applications**.
+
 Linux:
-Buka terminal dan jalankan:
-bash
-Salin
-Edit
++ Buka terminal dan jalankan:
+```
+cs
 sudo dpkg -i code*.deb  # Untuk Debian/Ubuntu
 sudo rpm -i code*.rpm   # Untuk Fedora/Red Hat
+```
 Langkah 3: Jalankan VS Code
 Buka aplikasi Visual Studio Code.
 2. Instalasi Python
