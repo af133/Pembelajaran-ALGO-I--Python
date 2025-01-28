@@ -75,7 +75,8 @@ print("Hello, World!")
 + Jalankan dengan menekan **F5** atau **Ctrl + Shift + P**, lalu pilih Run Python File#.
 
 # **4. Tes Akhir**
-Buka terminal di VS Code dengan menekan **Ctrl + **.
+Buka terminal di VS Code dengan menekan **Ctrl +**.
+
 Ketik:
 ```
 python
