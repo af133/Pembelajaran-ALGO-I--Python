@@ -7,11 +7,11 @@ Berikut adalah langkah-langkah untuk menginstal Visual Studio Code (VS Code) dan
 
 Buka situs resmi Visual Studio Code:
 + https://code.visualstudio.com/download.
-+Pilih versi sesuai sistem operasi Anda:
++ Pilih versi sesuai sistem operasi Anda:
 
 **Langkah 2**: Pasang VS Code
 Windows:
-Jalankan file .exe yang diunduh.
+Jalankan file ```cs .exe``` yang diunduh.
 Centang opsi Add to PATH agar bisa menggunakan perintah VS Code di terminal.
 Klik Next hingga selesai.
 macOS:
