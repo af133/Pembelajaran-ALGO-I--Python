@@ -46,7 +46,7 @@ Linux:
 sudo apt update
 sudo apt install python3
 ```
-# **Langkah 3:** Verifikasi Instalasi
+**Langkah 3:** Verifikasi Instalasi
 + Buka terminal atau Command Prompt.
 Ketik perintah:
 ```
@@ -58,7 +58,8 @@ python3 --version
 ```
 + Jika versi Python muncul, **instalasi berhasil**.
 
-3. Integrasi Python dengan VS Code
+# 3. Integrasi Python dengan VS Code
+   
 **Langkah 1:** Pasang Ekstensi Python di VS Code
 + Buka VS Code.
 + Klik menu **Extensions** (ikon kotak di sidebar kiri).
