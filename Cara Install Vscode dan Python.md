@@ -46,7 +46,7 @@ Linux:
 sudo apt update
 sudo apt install python3
 ```
-**Langkah 3:** Verifikasi Instalasi
+# **Langkah 3:** Verifikasi Instalasi
 + Buka terminal atau Command Prompt.
 Ketik perintah:
 ```
@@ -71,9 +71,9 @@ python3 --version
 ```
 print("Hello, World!")
 ```
-+ Jalankan dengan menekan **F5** atau **Ctrl + Shift + P**, lalu pilih Run Python File.
++ Jalankan dengan menekan **F5** atau **Ctrl + Shift + P**, lalu pilih Run Python File#.
 
-**4. Tes Akhir**
+# **4. Tes Akhir**
 Buka terminal di VS Code dengan menekan **Ctrl + **.
 Ketik:
 ```
